@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Counter-strike 2",
+        "categoria": "Battle Royal",
+        "descripcion": "Counter-Strike 2 es un videojuego de disparos táctico en primera persona multijugador de 2023 desarrollado y publicado por Valve.",
+        "fecha": "27-septiembre-2023"
+    },
+    {
+        "id": 2,
+        "nombre": "Pubg: battlegrounds",
+        "categoria": "PUBG: Battlegrounds es un videojuego de batalla en línea multijugador masivo.",
+        "descripcion": "Es un juego de battle royale gratuito",
+        "fecha": "23-marzo-2017"
+    },
+    {
+        "id": 3,
+        "nombre": "Dota 2",
+        "categoria": "Es un videojuego perteneciente al género de Arena de batalla en línea ARTS (estrategia de acción en tiempo real).",
+        "descripcion": "Es un RPG de accionen linea gratuito",
+        "fecha": "09-julio-2013"
+    }
+]
